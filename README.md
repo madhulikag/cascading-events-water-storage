@@ -1,1 +1,1 @@
-Code for "Compound snow-evaporative demand droughts and water storage changes in Northern Hemisphere basins"
+Code for "Cascading snow drought-high evaporative demand events and terrestrial water storage changes across Northern Hemisphere basins"
